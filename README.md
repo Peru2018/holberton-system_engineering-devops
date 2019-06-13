@@ -1,2 +1,1 @@
-# holbertonschool-zero_day
-# holberton-system_engineering-devops
+This repository will contain files that have been created using basic shell functions.
