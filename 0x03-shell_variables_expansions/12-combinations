@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {aa..oo}{oo..zz}
+echo {a..z}{a..z} | tr [:Space:] '\n' | grep -v "oo"
